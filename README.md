@@ -1,1 +1,1 @@
-# ImageProcessing-Classificationcoal
+# ImageProcessing-Classification-of-coal
